@@ -1,0 +1,6 @@
+{
+  "name": "ValutaPro Currency Converter",
+  "description": "Professional multi-currency converter and financial exchange tracker with real-time rates, historical trend charts, travel fee calculations, and native touch keypad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

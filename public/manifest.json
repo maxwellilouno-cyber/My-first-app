@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "ValutaPro Currency Converter",
+  "short_name": "ValutaPro",
+  "description": "Professional multi-currency converter and financial exchange tracker",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
